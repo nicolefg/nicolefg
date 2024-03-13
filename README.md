@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="200" src="![2](https://github.com/nicolefg/nicolefg/assets/132356256/4d1a48a1-dd7a-4f96-8d95-4f72472cd86d)"/>
+  <img height="200" src="https://github.com/nicolefg/nicolefg/assets/132356256/ddfefef5-8b95-4ae4-8a1e-76a85e594e26"/>
 </div>
 
-###
+
 
 <h1 align="left">Olá, Mundo!! Meu nome é Nicole.</h1>
 
@@ -12,7 +12,7 @@
 <p align="left">Estou interessada em novas oportunidades que possam me gerar mais conhecimento, prática e experiência profissional.</p>
 
 
-###<h3 align="left">Estou aprendendo:</h3>
+<h5 align="left">Estou aprendendo:</h5>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
